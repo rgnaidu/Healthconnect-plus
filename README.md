@@ -1,25 +1,39 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🏥 HealthConnect Plus
 
-# Run and deploy your AI Studio app
+**HealthConnect Plus** is a web-based healthcare platform developed to help users easily find doctors, book appointments, and access online medical consultations through a single interface.
 
-This contains everything you need to run your app locally.
+🔗 **Live Project:**  
+Project live : https://healthconnect-plus.netlify.app/
 
-View your app in AI Studio: https://ai.studio/apps/drive/1MFc_NhnMAUyD22Ad4xZhjZtAE6qxORhT
+---
 
-## Run Locally
+## 🚀 Features
 
-**Prerequisites:**  Node.js
+- 🔐 Secure user registration and login  
+- 👨‍⚕️ Doctor search and appointment booking  
+- 💬 Online consultation support  
+- 📍 Location-based healthcare services  
+- 📊 Centralized user dashboard  
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# Healthconnect-plus
-In this repository it contains the files of the project ,the project link, ppt and the video explanation
->>>>>>> 0f2b858d377417dceee84996ef1a6de4feb8245e
+## 🛠️ Technologies Used
+
+- 💻 HTML, CSS, JavaScript  
+- 🔥 Google Firebase (Authentication & Database)  
+- 🗺️ Google Maps API  
+- 🎥 Google Meet / WebRTC  
+- 🔔 Firebase Cloud Messaging (FCM)  
+- 🌐 Netlify (Deployment)  
+- ☁️ Google Cloud Platform (GCP)
+---
+📈 Future Scope
+---
+-🤖 AI-based doctor recommendations
+-📱 Mobile application support
+-💳 Online payment integration
+-📁 Electronic medical records management
+---
+📄 Conclusion
+---
+HealthConnect Plus demonstrates how modern web and cloud technologies can simplify healthcare access, providing a simple and efficient solution for patients and doctors alike.
