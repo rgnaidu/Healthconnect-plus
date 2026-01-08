@@ -26,14 +26,15 @@ Project live : https://healthconnect-plus.netlify.app/
 - 🔔 Firebase Cloud Messaging (FCM)  
 - 🌐 Netlify (Deployment)  
 - ☁️ Google Cloud Platform (GCP)
+
 ---
-📈 Future Scope
----
--🤖 AI-based doctor recommendations
--📱 Mobile application support
--💳 Online payment integration
--📁 Electronic medical records management
----
+## 📈 Future Scope
+
+- 🤖 AI-based doctor recommendations
+- 📱 Mobile application support
+- 💳 Online payment integration
+- 📁 Electronic medical records management
+
 📄 Conclusion
----
+
 HealthConnect Plus demonstrates how modern web and cloud technologies can simplify healthcare access, providing a simple and efficient solution for patients and doctors alike.
