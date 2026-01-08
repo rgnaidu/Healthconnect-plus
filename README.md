@@ -4,7 +4,7 @@
 
 🔗 **Live Project:**  
 Project live : https://healthconnect-plus.netlify.app/
-demo video live:https://github.com/rgnaidu/Healthconnect-plus.git
+demo video link: https://youtu.be/DdPlqgoVIV0?si=HRlpsG6bvGwdbEiy
 
 ---
 
